@@ -1,0 +1,17 @@
+Manual Slip Gaji
+
+1. Entry Data Pegawai terlebih dahulu
+2. Entry Data periode absen (ini akan digunakan untuk mengisi data absen) 
+3. Entry Data absen (ini akan digunakan untuk mencari deduction)
+4. Entry Data gaji (ini akan digunakan untuk mencari based gaji pegawai)
+5. Cetak Gaji Karyawan. pada proses ini gak ada penyimpanan, hanya tinggal pemanggilan dan pemrosesan
+
+Note : 
+1. Saya baru kenal laravel tadi pagi (19 Agustus 2019) per pukul 9 pagi. Github tidak lama setelah nya
+2. Saya belum menggunakan layout untuk template nya, jadi di tempel di setiap view. Tapi bisa dipelajari dan tidak lama. tadi karena mengejar deadline pukul 17.00 tgl 19 Agustus 2019 saja.
+3. soal sudah diberikan 2 hari yang lalu, tapi saya tidak bisa mengerjakan dikarenakan keterbatasan akses internet. Jadi hari ini menggunakan internet kantor baru bisa saya explore tentang laravel dan github.
+4. Mohon jadikan bahan pertimbangan kecepatan saya mempelajari hal baru yang belum pernah saya coba sebelum nya. keakuratan saya dalam menganalisa dan memahami instruksi yang bersumber dari berbagai blog dan forum di internet untuk mempelajari tentang laravel dan github dalam kurang lebih 6 - 7 jam saja.
+
+Terima Kasih
+
+============================================================================================================================================
